@@ -1,4 +1,4 @@
-TOKEN = '5957545018:AAEtHO8sg5IPxitmj8Ad7H15_MYCqYlT8J8'
+TOKEN = '5830146886:AAFSWbKyVuKcsF_94S6NnzH0BylMo1DIXBo'
 
 currencies = {
               'Рубль'  : 'RUB',
